@@ -7,7 +7,7 @@
         "Hevc",
         "Bot"
     ],
-    "repository": "https://github.com/Nirusaki/CompressorBot",
+    "repository": "https://github.com/ritraj009/CompressorBot",
     "env": {
         "API_ID": {
             "description": "Get it by creating an app on https://my.telegram.org",
